@@ -7,7 +7,7 @@
         <div class="container-fluid">
             <div class="card">
                 <div class="card-body">
-                    <h4 class="box-title">All Oppurtunities</h4>
+                    <h4 class="box-title">All Users Oppurtunities</h4>
                 </div>
                 <div class="card-body container">
                     <div class="table-stats order-table ov-h">
